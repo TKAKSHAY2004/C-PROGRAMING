@@ -7,7 +7,7 @@ int main()
     scanf("%f", &perpendicular);
     
     area =(base * perpendicular)/2;
-    printf("Area of triangle : %0.2f\n", area);
+    printf("Area of right angled triangle : %0.2f\n", area);
      
    
     return 0;
