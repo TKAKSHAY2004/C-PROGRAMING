@@ -9,9 +9,9 @@ int main()
     while(count <= n){
     	sum = sum + count;
     	count++;
-    }
+ }
 
-    printf("Sum of first %d natural numbers is: %d",n, sum);
+ printf("Sum of first %d natural numbers is: %d",n, sum);
 
     return 0;
 }
