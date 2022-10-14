@@ -1,7 +1,7 @@
 int main()
 {
   int day = 2;
-  
+  printf("RA2211042010057\n");
   switch (day) {
     case 1:
       printf("Monday");
