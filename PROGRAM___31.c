@@ -1,7 +1,7 @@
 int main()
 {
     int n, count, sum = 0;
-
+    printf("RA2211042010057\n");
     printf("Enter the value of n(positive integer): ");
     scanf("%d",&n);
 
