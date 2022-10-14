@@ -1,7 +1,7 @@
 int main() {
     int dividend, divisor, quotient, remainder;
-    
-    printf("\nEnter dividend: ");
+    printf("RA2211042010057\n");
+    printf("Enter dividend: ");
     scanf("%d", &dividend);
     printf("Enter divisor: ");
     scanf("%d", &divisor);
