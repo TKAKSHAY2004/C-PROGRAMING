@@ -2,7 +2,7 @@
 int main(){
 
     int principal, rate, time, interest;
-
+    printf("RA2211042010057\n");
     printf("Enter the principal: ");
     scanf("%d", &principal);
 
