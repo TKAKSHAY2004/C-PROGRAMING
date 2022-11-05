@@ -2,6 +2,7 @@
 
 int main() {
     char ch;
+    printf("RA2211042010057");
     printf("Enter a character : ");
     ch = getchar(); //use a function to read a character
     printf("The entered character is : ");
