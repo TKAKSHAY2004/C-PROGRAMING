@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     float a,u,t,s;
-    printf("RA2211042010057");
+    printf("RA2211042010057\n");
     printf("Enter the acceleration value : ");
     scanf("%f",&a);
     printf("Enter the initial velocity : ");
