@@ -1,3 +1,5 @@
+//reversal of array
+
 #include <stdio.h>
 #include <stdlib.h>
 
